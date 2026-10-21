@@ -1,0 +1,6 @@
+build/
+bin/
+results*/
+data/
+*.pgm
+*.npy
